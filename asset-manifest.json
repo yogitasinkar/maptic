@@ -1,33 +1,32 @@
 {
   "files": {
     "main.css": "/maptic/static/css/main.de8ed920.chunk.css",
-    "main.js": "/maptic/static/js/main.a87f8176.chunk.js",
-    "main.js.map": "/maptic/static/js/main.a87f8176.chunk.js.map",
+    "main.js": "/maptic/static/js/main.e4da250d.chunk.js",
+    "main.js.map": "/maptic/static/js/main.e4da250d.chunk.js.map",
     "runtime-main.js": "/maptic/static/js/runtime-main.d254d20e.js",
     "runtime-main.js.map": "/maptic/static/js/runtime-main.d254d20e.js.map",
     "static/css/2.c0a07d5a.chunk.css": "/maptic/static/css/2.c0a07d5a.chunk.css",
-    "static/js/2.939aa71a.chunk.js": "/maptic/static/js/2.939aa71a.chunk.js",
-    "static/js/2.939aa71a.chunk.js.map": "/maptic/static/js/2.939aa71a.chunk.js.map",
+    "static/js/2.923cc31b.chunk.js": "/maptic/static/js/2.923cc31b.chunk.js",
+    "static/js/2.923cc31b.chunk.js.map": "/maptic/static/js/2.923cc31b.chunk.js.map",
     "static/js/3.b604bf4a.chunk.js": "/maptic/static/js/3.b604bf4a.chunk.js",
     "static/js/3.b604bf4a.chunk.js.map": "/maptic/static/js/3.b604bf4a.chunk.js.map",
     "index.html": "/maptic/index.html",
     "static/css/2.c0a07d5a.chunk.css.map": "/maptic/static/css/2.c0a07d5a.chunk.css.map",
     "static/css/main.de8ed920.chunk.css.map": "/maptic/static/css/main.de8ed920.chunk.css.map",
-    "static/js/2.939aa71a.chunk.js.LICENSE.txt": "/maptic/static/js/2.939aa71a.chunk.js.LICENSE.txt",
+    "static/js/2.923cc31b.chunk.js.LICENSE.txt": "/maptic/static/js/2.923cc31b.chunk.js.LICENSE.txt",
     "static/js/mapbox-gl-csp-worker.05fc632c.worker.js": "/maptic/static/js/mapbox-gl-csp-worker.05fc632c.worker.js",
     "static/js/mapbox-gl-csp-worker.05fc632c.worker.js.map": "/maptic/static/js/mapbox-gl-csp-worker.05fc632c.worker.js.map",
     "static/media/Sample.0d425f73.pdf": "/maptic/static/media/Sample.0d425f73.pdf",
+    "static/media/business.1a6ff8c1.svg": "/maptic/static/media/business.1a6ff8c1.svg",
     "static/media/compost_black.78af302b.svg": "/maptic/static/media/compost_black.78af302b.svg",
-    "static/media/dam.5e77a0b0.svg": "/maptic/static/media/dam.5e77a0b0.svg",
     "static/media/electric_bolt.2f99a731.svg": "/maptic/static/media/electric_bolt.2f99a731.svg",
-    "static/media/maptic.2a44f94e.png": "/maptic/static/media/maptic.2a44f94e.png",
-    "static/media/recycle1.1ac1e6e3.png": "/maptic/static/media/recycle1.1ac1e6e3.png"
+    "static/media/maptic.2a44f94e.png": "/maptic/static/media/maptic.2a44f94e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d254d20e.js",
     "static/css/2.c0a07d5a.chunk.css",
-    "static/js/2.939aa71a.chunk.js",
+    "static/js/2.923cc31b.chunk.js",
     "static/css/main.de8ed920.chunk.css",
-    "static/js/main.a87f8176.chunk.js"
+    "static/js/main.e4da250d.chunk.js"
   ]
 }
