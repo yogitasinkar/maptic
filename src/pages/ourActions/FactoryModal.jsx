@@ -8,7 +8,7 @@ const FactoryModal = ({selectedFactory, setSelectedFactory}) => {
     return (
       <Modal isOpen={selectedFactory} toggle={toggleFactory} >
         <ModalHeader toggle={toggleFactory} charCode={<strong>X</strong>} >
-          FACTORY INFO
+          NGO INFO
         </ModalHeader>
         <ModalBody>
           <p className='text-center'><strong>{selectedFactory?.city}, {selectedFactory?.state}</strong></p>

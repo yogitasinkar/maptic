@@ -2,10 +2,10 @@ import React, {useState} from 'react';
 import ReactMapGL, {Marker} from 'react-map-gl';
 import * as data from './data.json';
 import * as recycleData from './recycleData.json';
-import dam from '../../images/dam.svg'
+import dam from '../../images/electric_bolt.svg'
 import bolt from '../../images/electric_bolt.svg'
 import factory from '../../images/compost_black.svg'
-import recycle from '../../images/recycle1.png'
+import recycle from '../../images/business.svg'
 import DamModal from './DamModal';
 import FactoryModal from './FactoryModal';
 
